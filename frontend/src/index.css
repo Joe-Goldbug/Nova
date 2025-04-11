@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #1b263b;
+  --secondary-color: #415a77;
+  --tertiary-color: #778da9;
+  --bg-color-dark: #0d1b2a;
+  --bg-color-light: #e0e1dd;
+}
+.main-content {
+  transition: margin-left 0.3s ease-in-out;
+}
